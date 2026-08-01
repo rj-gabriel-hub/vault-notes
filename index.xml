@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://rj-gabriel-hub.github.io/vault-notes</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://rj-gabriel-hub.github.io/vault-notes/</link>
+    <guid>https://rj-gabriel-hub.github.io/vault-notes/</guid>
+    <description><![CDATA[ Notas y compendios de Gabriel Rivera Ventana pública y selectiva a mi vault personal: solo lo que marco explícitamente como publicable llega aquí, nunca el resto. ]]></description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Hello World - Índice</title>
+    <link>https://rj-gabriel-hub.github.io/vault-notes/06-compendiums/hello-world/Hello-World---%C3%8Dndice</link>
+    <guid>https://rj-gabriel-hub.github.io/vault-notes/06-compendiums/hello-world/Hello-World---%C3%8Dndice</guid>
+    <description><![CDATA[ Hello World — Compendio de prueba (índice) Compendio desechable: existe para probar de una tacada Obsidian, wikilinks, Mermaid, el publicador selectivo y Quartz. ]]></description>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Hello World 01 - Markdown y wikilinks</title>
+    <link>https://rj-gabriel-hub.github.io/vault-notes/06-compendiums/hello-world/Hello-World-01---Markdown-y-wikilinks</link>
+    <guid>https://rj-gabriel-hub.github.io/vault-notes/06-compendiums/hello-world/Hello-World-01---Markdown-y-wikilinks</guid>
+    <description><![CDATA[ 01. ]]></description>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Hello World 02 - Mermaid</title>
+    <link>https://rj-gabriel-hub.github.io/vault-notes/06-compendiums/hello-world/Hello-World-02---Mermaid</link>
+    <guid>https://rj-gabriel-hub.github.io/vault-notes/06-compendiums/hello-world/Hello-World-02---Mermaid</guid>
+    <description><![CDATA[ 02. ]]></description>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
